@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;800&display=swap');
+:root{
+  --button-color:rgba(37, 129, 216, 1);
+  --features-color: rgba(244, 250, 255, 1);
+  --features-backgroundd: rgba(251, 252, 255, 1);
+--footer-background: rgba(37, 129, 216, 1);
+
+  --features-background: rgba(244, 250, 255, 1);
+
+
+  
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+ 
+  font-family: 'Open Sans', sans-serif;
+overflow-y: scroll;
+  overflow-x: hidden;
+
+}
+
+ 
